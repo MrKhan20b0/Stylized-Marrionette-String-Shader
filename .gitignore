@@ -1,2 +1,4 @@
 *.mat
 *.meta
+/FBX
+*.prefab
