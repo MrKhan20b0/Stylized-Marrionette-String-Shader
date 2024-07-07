@@ -89,7 +89,7 @@ Shader "Stylized Marrionette String Shader"
 
             v2f vert (appdata_t v)
             { 
-                // Heavliy referenced https://github.com/Toocanzs/Vertical-Billboard?tab=readme-ov-fileGitHub
+                // Referenced https://github.com/Toocanzs/Vertical-Billboard?tab=readme-ov-fileGitHub for having mesh always face camera
                 // Thanks to Toocanzs and Nestorboy
 
                 v2f o;
